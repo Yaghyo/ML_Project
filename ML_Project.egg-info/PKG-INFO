@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML_Project
+Version: 0.0.1
+Author: Yaghyapan
+Author-email: dyaghyapan@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
