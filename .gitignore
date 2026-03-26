@@ -2,3 +2,10 @@ venvM/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# CatBoost
+catboost_info/
+
+# Logs
+*.log
+logs/
